@@ -12,7 +12,13 @@ Welcome to the repository of Comprehensive Neural Network Development Guides! Th
 Neural networks are a fundamental technology in the field of artificial intelligence and machine learning, revolutionizing various domains from computer vision to natural language processing. However, working with neural networks can be challenging, especially for newcomers. This repository aims to bridge that gap by offering comprehensive, easy-to-follow guides for developing neural networks. Inside each folder, you will find PDF versions of the guides available on my Medium platform as well. 
 
 # The Roadmap For New Content
-In my ongoing commitment to providing comprehensive resources for neural network development, I am excited to announce an upcoming series of guides that will cover a wide spectrum of topics. I will begin by delving into binary and multi-class classification, laying a strong foundation for understanding classification tasks in neural networks. Moving forward, I will explore the fascinating world of image/object detection and classification, where I'll show you how to harness the power of neural networks for tasks like identifying objects within images. Additionally, I will venture into the realm of time-series analysis and Natural Language Processing (NLP), leveraging the capabilities of transfer learning with pre-trained models to tackle real-world problems efficiently. Finally, I have ambitious plans to guide you through the development of a Language Model Model (LLM), providing valuable insights into building advanced language models. Stay tuned for these exciting additions to my repository as I continue to empower both beginners and experienced practitioners in the field of neural network development. 
+In my commitment to providing valuable resources for neural network development, I'm pleased to announce an upcoming series of guides. These guides will cover diverse topics, starting with binary and multi-class classification to build a solid foundation in neural network classification. 
+
+Next, we'll explore image/object detection and classification, focusing on practical techniques for identifying objects in images. We'll also delve into time-series analysis and Natural Language Processing (NLP), utilizing transfer learning with pre-trained models to solve real-world challenges effectively.
+
+Additionally, I plan to provide insights on developing a Language Model Model (LLM), offering advanced guidance in language model construction. 
+
+Watch for these forthcoming additions to my repository, designed to empower both newcomers and experienced practitioners in the neural network development field.
 
 TL:DR 
   * Binary/Multi-class Classification
