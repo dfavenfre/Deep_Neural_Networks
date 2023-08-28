@@ -20,7 +20,7 @@ Additionally, I plan to provide insights on developing a Language Model Model (L
 
 Watch for these forthcoming additions to my repository, designed to empower both newcomers and experienced practitioners in the neural network development field.
 
-TL:DR 
+TL;DR 
   * Binary/Multi-class Classification
   * Image/Object Detection and Classification
   * Time Series Forecasting
