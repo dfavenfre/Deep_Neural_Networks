@@ -3,9 +3,9 @@
 Welcome to the repository of Comprehensive Neural Network Development Guides! This is your go-to resource for in-depth guides and tutorials on developing neural networks for a wide range of tasks. Whether you're a beginner or an experienced practitioner, you'll find valuable insights and practical tips to help you navigate the complex world of neural network development. I'll regularly update this repository with new content, topics, algorithms, comprehensive notebooks, and study guides every month. Stay tuned for the latest advancements in neural network development.
 
 # Table of Content
-|Content| Algorithms| Guide Notebooks | PDF Links| 
-|-------|-----------|-----------------|----------|
-|[Feed Forward Neural Networks](https://github.com/dfavenfre/Deep_Neural_Networks/tree/main/Feed%20Forward%20Neural%20Networks)| [Forward pass Algorithm](https://github.com/dfavenfre/Deep_Neural_Networks/blob/main/Feed%20Forward%20Neural%20Networks/Algorithm/forward_pass.py)| [Notebook Guides For Building Regression Models](https://github.com/dfavenfre/Deep_Neural_Networks/tree/main/Feed%20Forward%20Neural%20Networks/Notebooks)| [FNN Guide](https://github.com/dfavenfre/Deep_Neural_Networks/tree/main/Feed%20Forward%20Neural%20Networks/PDF%20Guide)|
+|Content| Algorithms| Guide Notebooks | PDF Links| Task| 
+|-------|-----------|-----------------|----------|-----|
+|[Feed Forward Neural Networks](https://github.com/dfavenfre/Deep_Neural_Networks/tree/main/Feed%20Forward%20Neural%20Networks)| [Forward pass Algorithm](https://github.com/dfavenfre/Deep_Neural_Networks/blob/main/Feed%20Forward%20Neural%20Networks/Algorithm/forward_pass.py)| [Notebook Guides For Building Regression Models](https://github.com/dfavenfre/Deep_Neural_Networks/tree/main/Feed%20Forward%20Neural%20Networks/Notebooks)| [FNN Guide](https://github.com/dfavenfre/Deep_Neural_Networks/tree/main/Feed%20Forward%20Neural%20Networks/PDF%20Guide)| [Personal Medical Cost Prediction](https://github.com/dfavenfre/Guide-To-Deep-Neural-Networks-/blob/main/Feed%20Forward%20Neural%20Networks/Notebooks/Neural_Network_Regression_With_TF_(Part_2).ipynb)
 
 
 # Introduction
